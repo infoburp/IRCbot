@@ -1,0 +1,10 @@
+A list of currently working commands and what they do.
+
+"!tough" Makes bot say "Fite me IRL"
+"!help" Links to this list
+"!salute" Salutes ;_;7
+"!rr" Russian Roulette game, used to take your turn spinning and pulling the trigger
+"!def <word>" Links to the duckduckgo 'define screen' for the definition of a word
+"!pl <word>" Says the word back in Pig Lattin
+
+More commands coming soon!
