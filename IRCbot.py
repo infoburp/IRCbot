@@ -37,7 +37,7 @@ def tough():
   ircsock.send("PRIVMSG " + channel + " :Fite me irl\n")
 
 def help():
-  ircsock.send("PRIVMSG " + channel + " :You think this crappy bot has documentation?\n")
+  ircsock.send("PRIVMSG " + channel + " :https://github.com/cblankenship97/IRCbot/blob/master/commands.txt\n")
 
 #		Spam function I'll be working out later
 #def spam():
