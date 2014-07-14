@@ -4,14 +4,9 @@
 import socket, random 
 
 # Some basic variables used to configure the bot        
-print "Please enter desired server and hit enter"
-server = raw_input()
-
-print "Please enter desired channel and hit enter"
-channel = raw_input()
-
-print "Please enter desired nickname and hit enter"
-botnick = raw_input()
+server = "rizon.mibbit.org" # Server
+channel = "#bots" # Channel
+botnick = "IRCbot678787859" # Your bots nick
 
 def ping(): # This is our first function! It will respond to server Pings.
   ircsock.send("PONG :pingis\n")  
