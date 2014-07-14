@@ -5,7 +5,7 @@ import socket, random
 
 # Some basic variables used to configure the bot        
 server = "rizon.mibbit.org" # Server
-channel = "#bots" # Channel
+channel = "#TheFusion" # Channel
 botnick = "IRCbot678787859" # Your bots nick
 
 def ping(): # This is our first function! It will respond to server Pings.
